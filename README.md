@@ -2,7 +2,7 @@
 
 A comprehensive Machine Learning web application built with Python and Streamlit to predict the likelihood of multiple diseases (Diabetes, Heart Disease, and Parkinson's).
 
-![App Interface](https://via.placeholder.com/800x400?text=Upload+Your+Website+Screenshot+Here)
+![App Interface](https://github.com/AmartyaKumar09/Patient_Sickness_Prediction/blob/main/images/Screenshot%202025-04-28%20205249.png?raw=true)
 
 ## 📋 Overview
 
@@ -44,6 +44,7 @@ MULTIPLE DISEASE PREDICTION/
 ├── Multiple disease predict.py # Training/Logic script
 ├── Diabetes.ipynb              # Jupyter Notebook for training
 └── README.md
+```
 
 ## 🧠 Model & Visualization Details
 
