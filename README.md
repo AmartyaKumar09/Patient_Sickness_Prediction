@@ -66,7 +66,7 @@ The application loads pre-trained models from the `Saved models/` directory.
 
 **[Your Name]**
 * GitHub: [@AmartyaKumar09](https://github.com/AmartyaKumar09)
-* LinkedIn: [amartyakumar09](https://www.linkedin.com/in/amartyakumar09/)
+* LinkedIn: [@amartyakumar09](https://www.linkedin.com/in/amartyakumar09/)
 
 ---
 *Disclaimer: This project is for educational purposes only and is not a substitute for professional medical diagnosis.*
